@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ephemerisepigra20instgoog_0003.png"; bbox 0 0 938 1479; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 244 353 558 380">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 244 353 558 380">
+     <span class='ocr_line' id='line_1_1' title="bbox 244 353 558 380; baseline -0.016 1"><span class='ocrx_word' id='word_1_1' title='bbox 244 353 415 380; x_wconf 55' lang='grc' dir='ltr'>άζιωαιμιτ.</span> <span class='ocrx_word' id='word_1_2' title='bbox 428 359 558 380; x_wconf 68' lang='grc' dir='ltr'>ι5,,ῑ,,,ι.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 348 728 613 753">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 348 728 613 753">
+     <span class='ocr_line' id='line_1_2' title="bbox 348 728 613 753; baseline -0.008 -4"><span class='ocrx_word' id='word_1_3' title='bbox 348 729 433 750; x_wconf 48' lang='lat' dir='ltr'>watham</span> <span class='ocrx_word' id='word_1_4' title='bbox 448 728 521 753; x_wconf 66' lang='lat' dir='ltr'>etnuzssz</span> <span class='ocrx_word' id='word_1_5' title='bbox 535 728 613 752; x_wconf 59' lang='lat' dir='ltr'>lihtang</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 341 786 625 853">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 341 786 625 853">
+     <span class='ocr_line' id='line_1_3' title="bbox 437 786 527 797; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 437 786 484 797; x_wconf 54' lang='lat' dir='ltr'>PRO!</span> <span class='ocrx_word' id='word_1_7' title='bbox 492 786 527 797; x_wconf 68' lang='lat' dir='ltr'>THE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 341 833 625 853; baseline -0.004 0"><span class='ocrx_word' id='word_1_8' title='bbox 341 834 532 853; x_wconf 83' lang='lat' dir='ltr'>SUBSCRIPTION</span> <span class='ocrx_word' id='word_1_9' title='bbox 551 833 625 852; x_wconf 91' lang='lat' dir='ltr'>FUND</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 415 896 550 913">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 415 896 550 913">
+     <span class='ocr_line' id='line_1_5' title="bbox 415 896 550 913; baseline 0 -4"><span class='ocrx_word' id='word_1_10' title='bbox 415 897 474 910; x_wconf 77' lang='lat' dir='ltr'>BEGUN</span> <span class='ocrx_word' id='word_1_11' title='bbox 486 897 504 909; x_wconf 78' lang='lat' dir='ltr'>{N</span> <span class='ocrx_word' id='word_1_12' title='bbox 518 896 550 913; x_wconf 74' lang='lat' dir='ltr'>185ss</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
